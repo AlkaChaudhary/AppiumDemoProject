@@ -1,7 +1,12 @@
 
-![Screenshot 2024-04-28 at 14 03 37](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/98deeaf1-ed48-44d3-ad4c-ab62fd6bb603)
+![Screenshot 2024-04-28 at 15 21 05](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/c82860e3-f56d-458b-8b3e-b216269c83a5)
+
 
 # Appium Demo Project
+
+## Appium Automation Framework Architecture
+![Screenshot 2024-04-28 at 15 18 19](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/2ed94d5e-1a87-4222-ac25-28e5fe2c3c81)
+
 
 ## Steps requied
 
