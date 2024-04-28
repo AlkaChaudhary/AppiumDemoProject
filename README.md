@@ -9,16 +9,15 @@
 ![Screenshot 2024-04-28 at 15 18 19](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/2ed94d5e-1a87-4222-ac25-28e5fe2c3c81)
 
 
-## Steps requied
+## Prerequisites for Setting up Appium
 
-Step1 Download, Install and configure Java into machine
-
-Step2 Download, Install and configure Android Stidio
-
-Step3 Download,Install and configured Node
-
-Step4 Create virtual device by configuring Emulator.
-
-Step5 After configuring Emulator download the appium server
-
-Step6 Create Maven Project on Eclipse
+- Download and Install Appium Desktop/Server
+- Install JDK (Java development kit)
+- Download and Install Install Java and set up the environment variable
+- Download and setup Android SDK (Software development kit)
+- Install Eclipse
+- Install Node JS
+- Java-client jars and Selenium jars
+- APK – Mobile applications for automation
+- Mobile devices
+- USB driver for mobile devices
