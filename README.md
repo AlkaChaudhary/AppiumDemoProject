@@ -11,13 +11,11 @@
 
 ## Prerequisites for Setting up Appium
 
-- Download and Install Appium Desktop/Server
-- Install JDK (Java development kit)
-- Download and Install Install Java and set up the environment variable
-- Download and setup Android SDK (Software development kit)
-- Install Eclipse
-- Install Node JS
-- Java-client jars and Selenium jars
-- APK – Mobile applications for automation
-- Mobile devices
-- USB driver for mobile devices
+- Download and install JDK and Eclipse IDE:
+- Install Appium Server:
+- Install Android Studio:
+- Setup Emulator with Android Studio:
+- Appium Inspector: 
+- Install Node JS:
+- APK – Mobile applications for automation:
+
