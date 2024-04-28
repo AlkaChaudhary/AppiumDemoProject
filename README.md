@@ -1,5 +1,6 @@
 
-![Screenshot 2024-04-28 at 15 21 05](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/c82860e3-f56d-458b-8b3e-b216269c83a5)
+![Screenshot 2024-04-28 at 15 27 57](https://github.com/AlkaChaudhary/AppiumDemoProject/assets/87438786/3e1ac3e6-52ee-46b3-bb85-43a465d19026)
+
 
 
 # Appium Demo Project
